@@ -1,4 +1,4 @@
-# jobseeker
+# jobseeker API
 
 1. Build a database
 2. Who am I ?
